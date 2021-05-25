@@ -16,4 +16,4 @@ from flask import Flask, render_template, request, flash, redirect, url_for
 ```
 
 ## Preview
-
+![GitHub Logo](/images/image1.png)
